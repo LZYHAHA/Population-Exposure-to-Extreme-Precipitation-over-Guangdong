@@ -1,0 +1,38 @@
+1.
+TY  - DATA
+AU  - Lebakula, Viswadeep
+AU  - Epting, Justin
+AU  - Moehl, Jessica
+AU  - Stipek, Clinton
+AU  - Adams, Daniel
+AU  - Reith, Andrew
+AU  - Kaufman, Jason
+AU  - Gonzales, Jack
+AU  - Reynolds, Brandyn
+AU  - Basford, Scott
+AU  - Martin, Aubre
+AU  - Buck, Whitson
+AU  - Faxon, Abbie
+AU  - Cunningham, Angela
+AU  - Roy, Annarupa
+AU  - Barbose, Zachary
+AU  - Massaro, Jim
+AU  - Walters, Sarah
+AU  - Woody, Carson
+AU  - Iman, Alex
+AU  - Wilkins, Annie
+AU  - Powell, Eric
+AU  - Urban, Marie
+PY  - 2024
+TI  - LandScan Silver Edition
+CY  - Oak Ridge, TN
+PB  - Oak Ridge National Laboratory
+SE  - October 09, 2024
+T3  - LandScan Global
+ET  - tion
+RI  - Global
+C1  - CY 2023
+C3  - raster digital data
+AB  - The LandScan Silver Edition represents a major methodological advancement in the LandScan program, leveraging the geospatial datasets and LandScan Global 2022 datasets to train the machine learning models. This release builds on the legacy of previous versions while introducing key improvements in reproducibility, transparency, and efficiency. It also enhances the review process and accelerates revisions, contributing to a more robust and reliable global population dataset.
+DO  - https://doi.org/10.48690/1531770
+ER  - 
